@@ -1,0 +1,45 @@
+
+         h1 {color:purple;}
+         p {color:rgb(53, 206, 173);}
+         
+         .header{
+             background-color:rgb(16, 118, 152);
+             display:flex;
+             border-radius:20px;
+             justify-content:center;
+         }
+        
+         .grid{
+             background-color:rgb(223, 98, 119);
+             display:flex;
+            flex-wrap:wrap; 
+            justify-content:space-around;
+            border-radius:20px;
+         }
+
+         .origami1{
+            border: 3px solid cadetblue ;
+            border-radius:20px;
+         }
+         .origami2{
+            border: 3px solid cadetblue ;
+            border-radius:20px;
+         }
+         .origami3{
+            border: 3px solid cadetblue ;
+            border-radius:20px;
+         }
+         .origami4{
+            border: 3px solid cadetblue ;
+            border-radius:20px;
+         }
+
+         .origami5{
+            border: 3px solid cadetblue ;
+            border-radius:20px;
+         }
+         .origami6{
+            border: 3px solid cadetblue ;
+            border-radius:20px;
+         }
+        
